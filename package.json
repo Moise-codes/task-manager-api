@@ -1,0 +1,21 @@
+{
+  "name": "task-manager-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moise-codes/task-manager-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Moise-codes/task-manager-api/issues"
+  },
+  "homepage": "https://github.com/Moise-codes/task-manager-api#readme"
+}
