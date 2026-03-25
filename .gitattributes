@@ -1,0 +1,8 @@
+node_modules/* linguist-vendored
+dist/* linguist-vendored
+build/* linguist-vendored
+
+package-lock.json linguist-generated
+yarn.lock linguist-generated
+
+.env linguist-detectable=false
