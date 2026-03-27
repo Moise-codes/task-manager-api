@@ -1,0 +1,10 @@
+# Ignore automation script
+autopush.sh
+
+# Ignore log files
+commit_log.txt
+contribution_log.txt
+
+# Ignore temporary files
+*.tmp
+*.loga
